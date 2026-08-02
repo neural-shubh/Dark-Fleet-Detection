@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: If you use this software or its accompanying paper, please cite it as below.
+title: Dark Fleet Detection - CNN + LSTM + RNN Fusion for Maritime Domain Awareness
+authors:
+  - name: Shubh
+    alias: neural-shubh
+date-released: 2026
+repository-code: https://github.com/neural-shubh/Dark-Fleet-Detection
+license: MIT
+preferred-citation:
+  type: article
+  title: "Monitoring Dark Fleets and Maritime Domain Awareness: A Multimodal CNN-LSTM-RNN Framework for the Indian Ocean Region"
+  authors:
+    - name: Shubh
+      alias: neural-shubh
+  doi: 10.5281/zenodo.21422532
+  year: 2026
